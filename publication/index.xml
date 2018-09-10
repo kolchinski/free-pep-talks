@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Alex Kolchinski</title>
+    <link>https://kolchinski.github.io/publication/</link>
+    <description>Recent content in Publications on Alex Kolchinski</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0800</lastBuildDate>
+    
+	<atom:link href="https://kolchinski.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Representing Social Media Users for Sarcasm Detection</title>
+      <link>https://kolchinski.github.io/publication/sarcasm_detection/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 -0700</pubDate>
+      
+      <guid>https://kolchinski.github.io/publication/sarcasm_detection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive natural-language targeting for student feedback</title>
+      <link>https://kolchinski.github.io/publication/adaptive_feedback/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 -0700</pubDate>
+      
+      <guid>https://kolchinski.github.io/publication/adaptive_feedback/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
