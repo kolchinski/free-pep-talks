@@ -1,0 +1,18 @@
+<button type="button" onclick="genpep()">Need a pep talk?</button>
+<div id="demo">
+
+</div>
+
+<script>
+let peptalks = [
+	"You got this!",
+	"I believe in you!",
+	"You're doing great, hang in there!",
+	"You've come so far, keep at it!",
+	"Every journey starts with a single step!",
+	"Belief in yourself is the most important thing, but I, this Internet script, believe in you!",
+]
+function genpep() {
+	document.getElementById("demo").innerHTML = peptalks[Math.floor(Math.random() * peptalks.length)];
+}
+</script>
